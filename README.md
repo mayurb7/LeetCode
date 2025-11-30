@@ -5,6 +5,7 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
@@ -28,10 +29,12 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 ## Heap (Priority Queue)
 |  |
@@ -45,4 +48,8 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
