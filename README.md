@@ -41,4 +41,8 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
