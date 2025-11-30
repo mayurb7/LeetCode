@@ -4,38 +4,48 @@ public:
         int n=matrix.size();
         int m=matrix[0].size();
 
-        int top=0;
-        int bottom=n-1;
-        int left=0;
-        int right=m-1;
-        vector<int> res;
+        vector<vector<int>> visited(n,vector<int>(m,0));
+        vector<int> ans;
+        int i=0;
+        int j=0;
+        int total=m*n;
+        int currtotal=0;
 
-        while(top<=bottom && left<=right){
-            for(int i=left; i <= right; i++){
-                res.push_back(matrix[top][i]);
+        while(currtotal<total){
+            while(i<n && j<m && i>=0 && j>=0 && visited[i][j]==0){
+                ans.push_back(matrix[i][j]);
+                visited[i][j]=1;
+                j++;
+                currtotal++;
             }
-            top++;
-
-            for(int i = top; i <= bottom; i++){
-                res.push_back(matrix[i][right]);
+            j--;
+            i++;
+            while(i<n && j<m && i>=0 && j>=0 && visited[i][j]==0){
+                ans.push_back(matrix[i][j]);
+                visited[i][j]=1;
+                i++;
+                currtotal++;
             }
-            right--;
-
-            if(top<=bottom){
-                for(int i =right; i>=left; i--){
-                    res.push_back(matrix[bottom][i]);
-                }
-                bottom--;
+            i--;
+            j--;
+            while(i<n && j<m && i>=0 && j>=0 && visited[i][j]==0){
+                ans.push_back(matrix[i][j]);
+                visited[i][j]=1;
+                j--;
+                currtotal++;
             }
-            
-            if(left<=right){
-                for(int i = bottom; i>= top; i--){
-                    res.push_back(matrix[i][left]);
-                }
-                left++;
+            j++;
+            i--;
+            while(i<n && j<m && i>=0 && j>=0 && visited[i][j]==0){
+                ans.push_back(matrix[i][j]);
+                visited[i][j]=1;
+                i--;
+                currtotal++;
             }
+            i++;
+            j++;
         }
-        
-        return res;
+
+        return ans;
     }
 };
