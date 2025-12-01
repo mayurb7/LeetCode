@@ -11,6 +11,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 ## Greedy
 |  |
@@ -22,6 +23,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 ## Heap (Priority Queue)
 |  |
