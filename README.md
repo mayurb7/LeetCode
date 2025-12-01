@@ -9,6 +9,7 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 ## Greedy
@@ -20,6 +21,7 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,12 @@ Profile Link : leetcode.com/u/mayurbharambe7/
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
