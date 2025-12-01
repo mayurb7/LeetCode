@@ -1,4 +1,4 @@
-Profile Link : leetcode.com/u/mayurbharambe7/
+Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
