@@ -80,4 +80,8 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Database
+|  |
+| ------- |
+| [2057-count-salary-categories](https://github.com/mayurb7/LeetCode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
