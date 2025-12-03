@@ -15,6 +15,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,5 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
