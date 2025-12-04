@@ -19,6 +19,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
@@ -81,6 +82,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [0541-reverse-string-ii](https://github.com/mayurb7/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/mayurb7/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
