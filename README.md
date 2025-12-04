@@ -107,6 +107,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/mayurb7/LeetCode/tree/master/0626-exchange-seats) |
 | [2057-count-salary-categories](https://github.com/mayurb7/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/mayurb7/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
