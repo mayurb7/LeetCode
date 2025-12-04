@@ -11,6 +11,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
 | [0219-contains-duplicate-ii](https://github.com/mayurb7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/mayurb7/LeetCode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
@@ -96,6 +97,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mayurb7/LeetCode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/mayurb7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
@@ -123,4 +125,8 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mayurb7/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
