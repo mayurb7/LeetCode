@@ -70,6 +70,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/mayurb7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
