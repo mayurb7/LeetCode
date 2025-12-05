@@ -23,6 +23,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |
 | ------- |
