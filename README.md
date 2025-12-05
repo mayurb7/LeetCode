@@ -108,6 +108,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/mayurb7/LeetCode/tree/master/0626-exchange-seats) |
+| [1153-product-sales-analysis-i](https://github.com/mayurb7/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1480-movie-rating](https://github.com/mayurb7/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mayurb7/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2057-count-salary-categories](https://github.com/mayurb7/LeetCode/tree/master/2057-count-salary-categories) |
