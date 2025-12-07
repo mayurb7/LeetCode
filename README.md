@@ -82,6 +82,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/mayurb7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
