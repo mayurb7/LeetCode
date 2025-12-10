@@ -25,6 +25,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mayurb7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -176,4 +178,12 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mayurb7/LeetCode/tree/master/0077-combinations) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
