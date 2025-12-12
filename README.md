@@ -7,6 +7,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/mayurb7/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
 | [0219-contains-duplicate-ii](https://github.com/mayurb7/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -71,6 +72,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/mayurb7/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayurb7/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
