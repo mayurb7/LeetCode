@@ -30,6 +30,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
+| [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
+| [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0541-reverse-string-ii](https://github.com/mayurb7/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/mayurb7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
+| [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
