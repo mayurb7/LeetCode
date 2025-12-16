@@ -25,6 +25,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -67,6 +68,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
@@ -102,6 +104,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mayurb7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## String
@@ -121,6 +124,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayurb7/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
