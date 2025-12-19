@@ -5,6 +5,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mayurb7/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
@@ -43,6 +44,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mayurb7/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/mayurb7/LeetCode/tree/master/0541-reverse-string-ii) |
