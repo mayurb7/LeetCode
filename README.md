@@ -30,6 +30,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -42,6 +43,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
