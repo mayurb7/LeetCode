@@ -24,6 +24,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/mayurb7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mayurb7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/mayurb7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
@@ -80,6 +81,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0438-find-all-anagrams-in-a-string](https://github.com/mayurb7/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/mayurb7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
