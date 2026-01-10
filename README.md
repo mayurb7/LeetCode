@@ -13,6 +13,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayurb7/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/mayurb7/LeetCode/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/mayurb7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mayurb7/LeetCode/tree/master/0322-coin-change) |
@@ -151,6 +152,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayurb7/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -204,6 +206,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mayurb7/LeetCode/tree/master/0322-coin-change) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mayurb7/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Tree
@@ -213,6 +216,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mayurb7/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -234,4 +238,8 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mayurb7/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
