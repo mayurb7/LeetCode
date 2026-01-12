@@ -29,6 +29,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -131,6 +132,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mayurb7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -242,4 +244,8 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
