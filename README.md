@@ -90,6 +90,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mayurb7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mayurb7/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -127,6 +128,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mayurb7/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -152,6 +154,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0647-palindromic-substrings](https://github.com/mayurb7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mayurb7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
