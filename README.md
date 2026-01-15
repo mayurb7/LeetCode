@@ -34,6 +34,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mayurb7/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -108,6 +109,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mayurb7/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
