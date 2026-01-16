@@ -138,6 +138,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayurb7/LeetCode/tree/master/0009-palindrome-number) |
+| [1195-distribute-candies-to-people](https://github.com/mayurb7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mayurb7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -172,6 +173,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0054-spiral-matrix](https://github.com/mayurb7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/mayurb7/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
+| [1195-distribute-candies-to-people](https://github.com/mayurb7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 ## Dynamic Programming
 |  |
 | ------- |
