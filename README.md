@@ -35,6 +35,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/mayurb7/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3194-find-words-containing-character](https://github.com/mayurb7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -157,6 +158,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3194-find-words-containing-character](https://github.com/mayurb7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Matrix
