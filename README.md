@@ -195,6 +195,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1480-movie-rating](https://github.com/mayurb7/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mayurb7/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mayurb7/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [2024-calculate-special-bonus](https://github.com/mayurb7/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/mayurb7/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/mayurb7/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
