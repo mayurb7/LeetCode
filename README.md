@@ -33,6 +33,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayurb7/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayurb7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/mayurb7/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -115,6 +116,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayurb7/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayurb7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -210,6 +212,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0643-maximum-average-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayurb7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
