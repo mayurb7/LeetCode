@@ -160,6 +160,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mayurb7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/mayurb7/LeetCode/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/mayurb7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mayurb7/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/mayurb7/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -240,15 +241,18 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mayurb7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mayurb7/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mayurb7/LeetCode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/mayurb7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mayurb7/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mayurb7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mayurb7/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -258,6 +262,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mayurb7/LeetCode/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/mayurb7/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Brainteaser
 |  |
 | ------- |
