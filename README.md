@@ -41,6 +41,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3194-find-words-containing-character](https://github.com/mayurb7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayurb7/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mayurb7/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mayurb7/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -121,6 +122,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayurb7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mayurb7/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayurb7/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mayurb7/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -194,6 +196,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayurb7/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Database
 |  |
