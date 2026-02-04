@@ -171,6 +171,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/mayurb7/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3811-reverse-degree-of-a-string](https://github.com/mayurb7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Matrix
@@ -188,6 +189,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0682-baseball-game](https://github.com/mayurb7/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/mayurb7/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [3811-reverse-degree-of-a-string](https://github.com/mayurb7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
