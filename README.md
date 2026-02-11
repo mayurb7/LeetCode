@@ -53,6 +53,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/mayurb7/LeetCode/tree/master/3952-trionic-array-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Greedy
 |  |
@@ -106,6 +107,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3819-count-covered-buildings](https://github.com/mayurb7/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
@@ -230,6 +232,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2358-number-of-ways-to-split-array](https://github.com/mayurb7/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mayurb7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -282,4 +285,12 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
