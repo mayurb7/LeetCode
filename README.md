@@ -56,6 +56,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/mayurb7/LeetCode/tree/master/3952-trionic-array-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mayurb7/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Greedy
 |  |
@@ -113,6 +114,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/mayurb7/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mayurb7/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
