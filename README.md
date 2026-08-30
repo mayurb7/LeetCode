@@ -156,6 +156,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mayurb7/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mayurb7/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3885-count-special-triplets](https://github.com/mayurb7/LeetCode/tree/master/3885-count-special-triplets) |
+| [4365-count-valid-prefixes](https://github.com/mayurb7/LeetCode/tree/master/4365-count-valid-prefixes) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3811-reverse-degree-of-a-string](https://github.com/mayurb7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3934-coupon-code-validator](https://github.com/mayurb7/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4138-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/mayurb7/LeetCode/tree/master/4138-minimum-deletion-cost-to-make-all-characters-equal) |
+| [4365-count-valid-prefixes](https://github.com/mayurb7/LeetCode/tree/master/4365-count-valid-prefixes) |
 ## Matrix
 |  |
 | ------- |
