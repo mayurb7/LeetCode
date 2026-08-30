@@ -103,6 +103,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0940-fruit-into-baskets](https://github.com/mayurb7/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mayurb7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayurb7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1760-check-array-formation-through-concatenation](https://github.com/mayurb7/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -149,6 +150,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayurb7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayurb7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mayurb7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -178,6 +180,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0541-reverse-string-ii](https://github.com/mayurb7/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/mayurb7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mayurb7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayurb7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
