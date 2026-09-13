@@ -5,6 +5,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mayurb7/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mayurb7/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/mayurb7/LeetCode/tree/master/0039-combination-sum) |
@@ -72,6 +73,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mayurb7/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mayurb7/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
