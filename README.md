@@ -51,6 +51,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayurb7/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mayurb7/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mayurb7/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/mayurb7/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mayurb7/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mayurb7/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mayurb7/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -208,6 +209,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0898-transpose-matrix](https://github.com/mayurb7/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/mayurb7/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/mayurb7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/mayurb7/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
