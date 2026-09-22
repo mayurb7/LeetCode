@@ -188,6 +188,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0981-delete-columns-to-make-sorted](https://github.com/mayurb7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayurb7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/mayurb7/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/mayurb7/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/mayurb7/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/mayurb7/LeetCode/tree/master/3194-find-words-containing-character) |
