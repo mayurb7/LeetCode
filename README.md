@@ -236,6 +236,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/mayurb7/LeetCode/tree/master/0176-second-highest-salary) |
 | [0626-exchange-seats](https://github.com/mayurb7/LeetCode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/mayurb7/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1480-movie-rating](https://github.com/mayurb7/LeetCode/tree/master/1480-movie-rating) |
