@@ -32,6 +32,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mayurb7/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1137-height-checker](https://github.com/mayurb7/LeetCode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1306-minimum-absolute-difference](https://github.com/mayurb7/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -138,6 +139,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0451-sort-characters-by-frequency](https://github.com/mayurb7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/mayurb7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/mayurb7/LeetCode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1306-minimum-absolute-difference](https://github.com/mayurb7/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/mayurb7/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -330,9 +332,14 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/mayurb7/LeetCode/tree/master/1137-height-checker) |
 | [1961-maximum-ice-cream-bars](https://github.com/mayurb7/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mayurb7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mayurb7/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
