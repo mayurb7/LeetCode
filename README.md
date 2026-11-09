@@ -36,6 +36,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1306-minimum-absolute-difference](https://github.com/mayurb7/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mayurb7/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/mayurb7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1720-crawler-log-folder](https://github.com/mayurb7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1760-check-array-formation-through-concatenation](https://github.com/mayurb7/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/mayurb7/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -90,6 +91,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0875-longest-mountain-in-array](https://github.com/mayurb7/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0941-sort-array-by-parity](https://github.com/mayurb7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/mayurb7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/mayurb7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayurb7/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [0287-find-the-duplicate-number](https://github.com/mayurb7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayurb7/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayurb7/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/mayurb7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mayurb7/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
@@ -142,6 +145,7 @@ Profile Link : [mayurbharambe7](https://leetcode.com/u/mayurbharambe7/)
 | [1137-height-checker](https://github.com/mayurb7/LeetCode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/mayurb7/LeetCode/tree/master/1140-distant-barcodes) |
 | [1306-minimum-absolute-difference](https://github.com/mayurb7/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/mayurb7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/mayurb7/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayurb7/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayurb7/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
